@@ -19,7 +19,7 @@ public class ToDoMapper {
     public static final String TODO_RESULT = "result";
     public static final String TODO_TITLE = "Titel";
     public static final String TODO_DESCRIPTION = "Beschrijving";
-    public static final String TODO_CREATED_AT = "AangemaaktOp";
+    public static final String TODO_CREATED_AT = "LaatstGewijzigdOp";
     public static final String TODO_STATUS = "Status";
 
     /**
